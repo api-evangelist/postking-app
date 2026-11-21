@@ -1,4 +1,4 @@
-# postking-app
+# PostKing
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,127 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-postking-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://postking.app/
+PostKing provides AI‑powered SEO, content creation and social media automation for brands. Its platform generates multilingual blog posts, landing pages and social updates, helping businesses increase impressions and traffic across search engines and AI assistants. The service offers a free trial, demo bookings and tiered pricing for small businesses to enterprises.
+
+**Areas:** SEO · Content Automation · Social Media · AI · Marketing
+
+## PostKing on APIs.io
+
+Everything profiled for PostKing is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/postking-app/](https://apis.io/providers/postking-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [PostKing Agent API](https://apis.io/apis/postking-app/postking-app-agent-api/) — The Agent API from PostKing — 286 operation(s) for agent.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [PostKing Agentic Access](https://apis.io/agentic-access/postking-app/postking-app-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BlogPatchBody](https://apis.io/schemas/postking-app/postking-app-blog-patch-body/)
+- [GeoSiteAuditResponse](https://apis.io/schemas/postking-app/postking-app-geo-site-audit-response/)
+- [RedditPerformanceResponse](https://apis.io/schemas/postking-app/postking-app-reddit-performance-response/)
+- [SocialPerformanceResponse](https://apis.io/schemas/postking-app/postking-app-social-performance-response/)
+- [ToolCreateBody](https://apis.io/schemas/postking-app/postking-app-tool-create-body/)
+- [ToolUpdateBody](https://apis.io/schemas/postking-app/postking-app-tool-update-body/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Postking App Context](https://apis.io/jsonld/postking-app/postking-app-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [PostKing API Rules](https://apis.io/rules/postking-app/postking-app-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [PostKing Authentication](https://apis.io/security/postking-app/postking-app-authentication/)
+- [PostKing Domain Security](https://apis.io/security/postking-app/postking-app-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [PostKing Plans Pricing](https://apis.io/plans/postking-app/postking-app-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://postking.app/)
+- [Documentation](https://docs.postking.app/)
+- [Getting started](https://docs.postking.app/getting-started/connect-social-accounts)
+- [Pricing](https://postking.app/pricing)
+- [Sign up](https://try.postking.app/auth/register)
+- [Blog](https://postking.app/blog)
+
+## API Evangelist rating
+
+**Kin Score 46.3** — developing · rubric 0.28.0 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 55.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 42.1 |
+
+**Agent readiness 49.9** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/postking-app/](https://apis.io/providers/postking-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for PostKing: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/postking-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
